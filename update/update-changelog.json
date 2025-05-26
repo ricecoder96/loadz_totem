@@ -1,9 +1,9 @@
 {
-    "latestVersion": "1.0.25",
-    "latestVersionCode": 25,
-    "url": "https://github.com/ricecoder96/loadz_totem/releases/download/v1.0.25/loadz-release-V1.0.25.apk",
+    "latestVersion": "1.0.26",
+    "latestVersionCode": 26,
+    "url": "https://github.com/ricecoder96/loadz_totem/releases/download/v1.0.26/loadz-release-V1.0.26.apk",
     "releaseNotes": [
-      "- Update the function to Shut down the application on Android 11"
+      "- Enhancement video player"
     ]
   }
   
